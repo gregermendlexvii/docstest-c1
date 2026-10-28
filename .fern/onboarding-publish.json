@@ -1,0 +1,10 @@
+{
+  "desiredContentHash": "e041a5212cbe7634f2275336409ff53f6efe4cd73da12eb9b40818e298916464",
+  "docsUrl": "https://clerktest1.docs.dev.buildwithfern.com",
+  "starter": {
+    "repoOwner": "fern-api",
+    "repoName": "docs-starter-internal",
+    "commitSha": "7a136fbd26e750f96d049759bc080129b23e7a5c",
+    "label": "2026-07-layouts-launch"
+  }
+}
